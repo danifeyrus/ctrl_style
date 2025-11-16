@@ -1,0 +1,9 @@
+sentence-transformers
+umap-learn
+scikit-learn
+spacy
+textstat
+tqdm
+pandas
+numpy
+matplotlib
