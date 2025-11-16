@@ -1,0 +1,5 @@
+,n_tokens,n_tokens,n_sents,n_sents,avg_sent_len,avg_sent_len,avg_word_len,avg_word_len,ttr,ttr,punct_ratio,punct_ratio,excl_per_1k,excl_per_1k,quest_per_1k,quest_per_1k,quotes_per_1k,quotes_per_1k,pos_ratio_noun,pos_ratio_noun,pos_ratio_verb,pos_ratio_verb,pos_ratio_adj,pos_ratio_adj,pos_ratio_adv,pos_ratio_adv,pos_ratio_propn,pos_ratio_propn,pos_ratio_pron,pos_ratio_pron,fk_grade,fk_grade
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+author,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jane Austen,277.864,20.83,10.661,4.447,31.299,16.365,4.346,0.262,0.599,0.033,0.153,0.036,4.014,6.052,3.176,5.079,22.751,21.683,0.121,0.027,0.182,0.026,0.057,0.017,0.059,0.017,0.046,0.026,0.12,0.028,9.94,4.025
+Mark Twain,280.642,19.067,12.612,5.34,26.863,14.325,3.963,0.323,0.576,0.046,0.163,0.051,4.642,7.393,4.553,7.018,27.249,27.103,0.138,0.034,0.175,0.027,0.048,0.019,0.053,0.018,0.029,0.039,0.116,0.031,8.402,5.064
